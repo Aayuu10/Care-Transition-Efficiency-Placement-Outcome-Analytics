@@ -224,7 +224,7 @@ The app is organized into multiple tabs:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/care_transition_analytics.git
+git clone https://github.com/Aayuu10/Care-Transition-Efficiency-Placement-Outcome-Analytics.git
 cd care_transition_analytics
 ```
 
